@@ -1,0 +1,6 @@
+{
+  "name": "PhotoPower",
+  "description": "PhotoPower - Advanced Photo & Video Studio by Alen Pepa. Professional-grade Photoshop-like media editor with layer engine, color grading, retouching, video timeline, AI enhancements, and export.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
